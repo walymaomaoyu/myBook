@@ -1,0 +1,3 @@
+{
+  "plugins": ["summary","chapter-fold","expandable-chapters-small","code","splitter"]
+}
